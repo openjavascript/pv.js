@@ -1,0 +1,25 @@
+{
+  "name": "pv.js",
+  "main": "pv.js",
+  "homepage": "https://github.com/openjavascript/pv.js",
+  "authors": [
+    "qiushaowei <qiushaowei@360.cn>"
+  ],
+  "description": "",
+  "keywords": [
+    "pv.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~1.9.1"
+  },
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
