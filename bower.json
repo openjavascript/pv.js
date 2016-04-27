@@ -1,6 +1,7 @@
 {
   "name": "pv.js",
   "main": "pv.js",
+  "version": "0.0.1",
   "homepage": "https://github.com/openjavascript/pv.js",
   "authors": [
     "qiushaowei <qiushaowei@360.cn>"
