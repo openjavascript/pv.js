@@ -1,4 +1,4 @@
-;'use strict'; 
+;'use strict';  
 define( [ 'jquery' ], function(){
     /** @namespace V */
     !window.V && ( window.V = {} );
